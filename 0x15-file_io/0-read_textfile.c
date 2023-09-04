@@ -2,10 +2,10 @@
 #include <stdlib.h>
 
 /**
- * read_textfile - just read file..
- * @filename: is a argument
- * @letters: is a arhument.
- * Return: always return wr.
+ * read_textfile - ....................................
+ * @filename:.........................................
+ * @letters: .........................................
+ * Return:............................................
  */
 ssize_t read_textfile(const char *filename, size_t letters)
 {
